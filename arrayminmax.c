@@ -8,7 +8,7 @@ int array_min(int[], int);
 
 int main() {
 
-    int array1[5];
+    int array1[50]; //we are limiting the array size to 50
     int max;
     int min;
     int i;
