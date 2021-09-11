@@ -2,3 +2,9 @@ frequency.dSYM/Contents/Info.plist
 frequency.dSYM/Contents/Resources/DWARF/frequency
 idmatrix.dSYM/Contents/Resources/DWARF/idmatrix
 idmatrix.dSYM/Contents/Info.plist
+mystrlen
+mystrlen.dSYM/Contents/Info.plist
+swapstring
+swapstring.dSYM/Contents/Info.plist
+biggest_address
+biggest_address.dSYM/Contents/Info.plist
